@@ -1,7 +1,7 @@
 ### Olá! Sou a Monique Medeiros
 
-- 🔭 Trabalho como Desenvolvedora Full Stack Junior
-- 🌱 Estudando HTML, CSS, Java Script e Vue.js
+- 🔭 Trabalho como Desenvolvedora Full Stack Junior.
+- 🌱 Atualmente focada em aprimorar meus conhecimentos em Python.
   
 <div>
   <a href="https://github.com/Moniquemed13">
