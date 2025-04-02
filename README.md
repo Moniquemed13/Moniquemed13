@@ -1,4 +1,4 @@
-### Olá! Sou a Monique Medeiros
+### Olá! Sou a Monique Medeiros 
 
 - 🔭 Trabalho como Desenvolvedora Full Stack Junior.
 - 🌱 Atualmente focada em aprimorar meus conhecimentos em Python.
